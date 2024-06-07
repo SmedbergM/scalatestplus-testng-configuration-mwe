@@ -17,5 +17,3 @@ lazy val root = (project in file("."))
     libraryDependencies ++= scalatestDependencies
   )
   .settings(e2eSettings)
-
-
