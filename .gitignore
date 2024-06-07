@@ -1,0 +1,14 @@
+target/
+
+### IntelliJ IDEA ###
+.idea/
+
+
+### VS Code ###
+.vscode/
+
+### Scala ###
+.bsp/
+
+### TestNG output
+test-output/
